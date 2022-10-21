@@ -9,10 +9,8 @@ Seems we have a good news!
 
 And another good news!
 
-<<<<<<< HEAD
 Hallelujah!
-=======
+
 PR 1022 is now here! Amen!
 
 Our heart is full of joy!
->>>>>>> 8306e429809f18e4c8148cb1b5378a97898c86d7
