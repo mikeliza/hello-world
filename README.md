@@ -9,4 +9,4 @@ Seems we have a good news!
 
 And another good news!
 
-PR 0922 is here! Amen!
+PR 1022 is now here! Amen!
