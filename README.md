@@ -16,3 +16,4 @@ PR 1022 is now here! Amen!
 Our heart is full of joy!
 
 It's our time to shine and we will arise and shine!
+Doors God has opened cannot be shut.
