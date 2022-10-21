@@ -8,3 +8,5 @@ It now includes steps for GitHub
 Seems we have a good news!
 
 And another good news!
+
+Hallelujah!
